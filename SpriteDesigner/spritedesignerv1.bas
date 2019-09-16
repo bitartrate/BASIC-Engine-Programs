@@ -205,5 +205,4 @@
 2100 PRINT ""
 2110 INPUT "press <Enter> to go into program";z$
 2120 RETURN 
-2130 DATA 
-2140 DATA 
+
