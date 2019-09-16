@@ -1,4 +1,4 @@
-![BASIC Engine Logo](https://github.com/bitartrate/BASIC-Engine-Programs/blob/master/doc/be_logo.png?raw=true)
+![BASIC Engine Logo](https://github.com/bitartrate/BASIC-Engine-Programs/blob/master/doc/be_logo_small.png?raw=true)
 # BASIC-Engine-Programs
 Programs I write for the BASIC Engine hobby computer
 
