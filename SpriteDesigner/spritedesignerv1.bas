@@ -1,6 +1,9 @@
-100 REM sprite maker
+100 REM sprite maker v1.09/15/2019
+101 REM Written by Kevin Anderson
+102 REM projektprodukt@yahoo.com
+103 REM for the BASIC Engine hobby computer
+104 REM https://basicengine.org/
 110 GOSUB &instructions
-120 WAIT 1000
 130 GOSUB &setupscreen
 140 GOSUB &sprarray
 150 GOSUB &usercursor
