@@ -1,1 +1,2 @@
-test
+This is a Sprite Designer I am writing for the BASIC Engine hobby computer
+https://basicengine.org/
