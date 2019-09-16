@@ -6,6 +6,10 @@ as a loop and PSET into a 32x32 area of the screen ideally to be acted upon
 by blit techniques.  While the .pcx file can be acted upon as a sprite or 
 background as a "bitmap".
 
+You must update your BASIC Engine with the encluded firmware "unnoficialver395.bin"
+before Sprite Designer will work.  This firmware's updates should be incorporated into the next
+official firmware update at https://github.com/uli/basicengine-firmware
+
 The main program starts with a short instruction screen.
 Controls:
   Arrow Keys/PSX controller
