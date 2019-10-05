@@ -1,4 +1,4 @@
-100 'blockshoot.bas
+100 'spaceinvaders.bas
 110 'requires firmware v.398 and above
 120 SCREEN 2:PRINT "Space Invaders":WAIT 200
 130 LOAD PCX "sptitlemode2.pcx" TO 0,0
