@@ -11,4 +11,5 @@ projektprodukt@yahoo.com
 https://www.ebay.com/itm/Basic-Engine-Computer-a-Programmers-computer-for-fun-or-learning/143365141336?hash=item21613a7358:g:rvUAAOSwhfVdcIoZ
 
 Space Invaders type game
-https://github.com/bitartrate/BASIC-Engine-Programs/blob/master/doc/iconssmall.png
+![Space Invaders](https://github.com/bitartrate/BASIC-Engine-Programs/blob/master/doc/iconssmall.png?raw=true)
+
