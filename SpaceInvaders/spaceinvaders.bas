@@ -182,7 +182,6 @@
 2620       GOSUB &yourdead
 2630       alienbullet=0
 2640       PSET xas,yas,0:yas=yasmax
-2650       hit=hit+1
 2660       ships=ships-1:GPRINT 56,0,ships;
 2670       IF ships=0 THEN GOSUB &endgame
 2680       xas=INT(RND(5*305))
