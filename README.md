@@ -13,3 +13,5 @@ https://www.ebay.com/itm/Basic-Engine-Computer-a-Programmers-computer-for-fun-or
 Space Invaders type game
 ![Space Invaders](https://github.com/bitartrate/BASIC-Engine-Programs/blob/master/doc/iconssmall.png?raw=true)
 
+3d Rotating Cube Demo translated from a Simon's BASIC program listing for the Commodore 64
+![3d Rotating Cube Demo](https://github.com/bitartrate/BASIC-Engine-Programs/blob/master/3dCubeDemo/3dCubeDemofaketripplebuffer.png)
