@@ -1,0 +1,24 @@
+Please add 'smallshmup.bas' to the 'shmup' folder on your basic engine in order for this tutorial to access the assets it needs.
+
+Lines:
+20 sets up background 0 (you have 0-3 independent backgrounds to layer).  
+
+50 loads spritesheet "charwalk.pcx" as sprite 0   (important) this is loading it into an offscreen buffer
+
+ 70 now actually defining sprite 0 size 32x32
+
+80 putting sprite onto visible screen
+
+90 turning sprite on
+
+185 turning a window ON in background 0.  If you dont make a window area then the BE will not automatically erase sprite as it moved across screen
+
+186 don't quite know why he moved the background down 8 pixels
+
+830 moving sprite based on what happens when player presses movement buttons
+
+770 tic is related to what section of the player sprite sheet we want to display to create "automatic" animation
+
+1400 this is where tic in relation to "SPRITE 0 FRAME 0" makes the animation happen.  Maybe you can explain to me what the logical AND does in this statement?
+
+Hope this helps some. 
